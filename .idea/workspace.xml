@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7797edcf-9ffb-49e1-88ed-dac2fb2ffd46" name="变更" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/File/FileInputStream/FileInputStreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/File/FileInputStream/fileInputStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/File/FileInputStream/theSecondFileInputStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/File/FileOutPutStream/FileWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/File/FileOutPutStream/fileOutPutStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/File/FileOutPutStream/theFileAppend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/File/theList/FileIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/FileReasources/theSecondDir/FBCD笔记系统.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/FileReasources/theSecondDir/bytesTest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/FileReasources/theSecondDir/java.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/FileReasources/theSecondDir/thanother.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/FileReasources/theSecondDir/theHeart.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/File/theList/theFIIilIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/File/theList/theFIIilIterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/FileReasources/MyTestDemo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/FileReasources/MyTestDemo.txt" afterDir="false" />
-    </list>
+    <list default="true" id="7797edcf-9ffb-49e1-88ed-dac2fb2ffd46" name="变更" comment="Initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,13 +48,13 @@
       <recent name="E:\theElementDemo\JavaProblem\src\main\resources\FileReasources\theSecondDir" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.FileInputStreamDemo">
-    <configuration name="FileInputStreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.File.FileInputStream.FileInputStreamDemo" />
+  <component name="RunManager" selected="应用程序.fileCopyTestDemo">
+    <configuration name="fileCopyTestDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.File.Writer.fileCopyTestDemo" />
       <module name="JavaProblem" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.File.FileInputStream.*" />
+          <option name="PATTERN" value="org.example.File.Writer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileWriter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.File.FileOutPutStream.FileWriter" />
+    <configuration name="fileWriterAnother" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.File.Writer.fileWriterAnother" />
       <module name="JavaProblem" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.File.FileOutPutStream.*" />
+          <option name="PATTERN" value="org.example.File.Writer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fileInputStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.File.FileInputStream.fileInputStream" />
+    <configuration name="fileWriterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.File.Writer.fileWriterTest" />
       <module name="JavaProblem" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.File.FileInputStream.*" />
+          <option name="PATTERN" value="org.example.File.Writer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="theFileAppend" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.File.FileOutPutStream.theFileAppend" />
+    <configuration name="flushTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.File.Writer.flushTester" />
       <module name="JavaProblem" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.File.FileOutPutStream.*" />
+          <option name="PATTERN" value="org.example.File.Writer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="theSecondFileInputStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.File.FileInputStream.theSecondFileInputStream" />
+    <configuration name="theChangeFileDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.File.Writer.theChangeFileDemo" />
       <module name="JavaProblem" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.File.FileInputStream.*" />
+          <option name="PATTERN" value="org.example.File.Writer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.FileInputStreamDemo" />
-        <item itemvalue="应用程序.theSecondFileInputStream" />
-        <item itemvalue="应用程序.fileInputStream" />
-        <item itemvalue="应用程序.theFileAppend" />
-        <item itemvalue="应用程序.FileWriter" />
+        <item itemvalue="应用程序.fileCopyTestDemo" />
+        <item itemvalue="应用程序.fileWriterAnother" />
+        <item itemvalue="应用程序.flushTester" />
+        <item itemvalue="应用程序.theChangeFileDemo" />
+        <item itemvalue="应用程序.fileWriterTest" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +137,7 @@
       <workItem from="1698136028999" duration="8227000" />
       <workItem from="1698144661815" duration="7568000" />
       <workItem from="1698153458902" duration="2148000" />
-      <workItem from="1698222216769" duration="3398000" />
+      <workItem from="1698222216769" duration="8626000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1698075392164</created>
@@ -183,7 +167,21 @@
       <option name="project" value="LOCAL" />
       <updated>1698075622410</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Initial commit">
+      <created>1698225841485</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698225841485</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Initial commit">
+      <created>1698231706263</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1698231706263</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
